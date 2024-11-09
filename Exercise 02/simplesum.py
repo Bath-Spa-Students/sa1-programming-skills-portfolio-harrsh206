@@ -15,7 +15,6 @@ alpha = (int(8))
 #inserting an integer to the second variable
 bravo = (int(10))
 
-#inserting both the first and second variable to the tird variable
 #inserting both the first and second variable to the third variable
 charle = (alpha + bravo)
 
