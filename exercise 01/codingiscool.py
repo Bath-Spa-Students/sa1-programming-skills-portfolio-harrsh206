@@ -7,4 +7,4 @@ word2 = "is"
 #assigning the one word to the varibale word3
 word3 = "cool"
 c = word1 + " " + word2 + " " + word3 
-print(c)
+print(c) 
