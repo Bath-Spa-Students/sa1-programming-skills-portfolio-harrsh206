@@ -7,7 +7,7 @@
 qs1=input("1.whats is the captial of france:")#To input the answer to the given question
 ans="paris" #The answer to the question
 if qs1.lower() == ans.lower():#To ignore capitalization
-    print ("Correct!") #displayed if the answer is correct
+    print ("Correct!") #displayed if the answer is correct 
 else:
    print("Wrong!") #Displayed if the answer is wrong 
 

@@ -10,4 +10,4 @@
 Data ={"name": "Harhin Kriss","hometown": "Sharjah","age": 19} #Input of our biography that will be displayed
 print(Data["name"]) #To display the name 
 print(Data["hometown"]) #To display the hometown
-print(Data["age"]) #To display the age
+print(Data["age"]) #To display the age 
