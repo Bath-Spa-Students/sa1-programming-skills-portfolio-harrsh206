@@ -28,8 +28,10 @@ months_days = {
 
 #ask the user to input month number
 month=int(input("Enter the number of the month (1-12)"))
+month=int(input("Enter the number of the month (1-12):"))
 if 1 <= month <= 12:
 #Check if it's february and if the user need leap year or not
+#Check if it's february and if the user needs leap year or not
     if month==2:
         leap=input("Checking if leap year? (yes or no)")
 
@@ -38,6 +40,7 @@ if 1 <= month <= 12:
         else:
             print("This month has 28 days")
 #print output of the days for the monnth other than fabruary
+#print output of the days for the month other than fabruary
     else:
         print(f'This month has {months_days[month]} days')
 else:
