@@ -7,7 +7,7 @@
 #2. Print the values on separate lines using a single `print()` statement.
 #3. Use variables with appropriate data types for each piece of information.
 
-Data ={"name": "Harhin Kriss","hometown": "Sharjah","age": 19} #Input of our biography that will be displayed
+Data ={"name": "Harshin Kriss","hometown": "Sharjah","age": 19} #Input of our biography that will be displayed
 print(Data["name"]) #To display the name 
 print(Data["hometown"]) #To display the hometown
 print(Data["age"]) #To display the age 
