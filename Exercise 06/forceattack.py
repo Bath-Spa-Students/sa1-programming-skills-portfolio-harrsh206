@@ -34,7 +34,7 @@ while no_of_attempts < available_attempts:
         no_of_attempts += 1
         attempts_left = available_attempts - no_of_attempts
         if attempts_left > 0:
-            print(f"Worongp assword. You have {attempts_left} attempts remaining.")
+            print(f"Worong password. You have {attempts_left} attempts remaining.")
         else:
             print("Wrong password. You have reached the maximum number of attempts. Authorities have been alerted.")
             # Here you could alert the authorities if needed.
